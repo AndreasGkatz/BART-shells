@@ -6,4 +6,4 @@
 # afterwards you can execute it with
 # ./example_shell_script.sh
 
-echo "Hello World and Goodbye Cruel World!"
+echo "Hello World and Goodbye Cruel World,or Hello again!"
